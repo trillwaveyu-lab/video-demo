@@ -1,1 +1,2 @@
 "New line of text in file"
+"Another line of text"
